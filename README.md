@@ -17,9 +17,9 @@
 
 ### [+] Installation
 
-```apt install figlet```
+```apt update && apt upgrade-y```
 
-```apt install python```
+```apt install git python -y```
 
 ```git clone https://github.com/KasRoudra/autoreport```
 
@@ -32,7 +32,7 @@
 ### Or, Use Single Command
 
 ```
-apt install figlet python -y && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python3 ar.py
+apt install git python -y && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python3 ar.py
 ```
 
 ### Screenshots:
