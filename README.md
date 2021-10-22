@@ -17,7 +17,7 @@
 
 ### [+] Installation
 
-```apt update && apt upgrade-y```
+```apt update && apt upgrade -y```
 
 ```apt install git python -y```
 
@@ -25,14 +25,12 @@
 
 ```cd autoreport```
 
-```chmod +x ar.py```
-
 ```python3 ar.py```
 
 ### Or, Use Single Command
 
 ```
-apt install git python -y && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python3 ar.py
+apt install git python -y && git clone https://github.com/KasRoudra/autoreport && cd autoreport && python3 ar.py
 ```
 
 ### Screenshots:
@@ -57,5 +55,5 @@ AUTOREPORT DOES NOT DISABLE ACCOUNT UNLESS THERE IS SPECIFIC POST(S) VIOLATING F
 <ul>
 <li><a href="https://facebook.com/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
 <li><a href="https://m.me/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
-<li><a href="mailto:kasroudrard@gmail.com"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
+<li><a href="mailto:kasroudrakrd@gmail.com"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
 </ul>
